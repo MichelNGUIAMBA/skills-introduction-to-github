@@ -1,4 +1,5 @@
 Welcome to my GitHub profile!
-<img src="https://octodex.github.com/images/welcometocat.png" align="center" height="500px" />
+
+<img src="https://octodex.github.com/images/welcometocat.png" align="center" height="500px" padding="10px"/>
 > [!TIP]
 > this is my TIP for you, just trust in GOD
